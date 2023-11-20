@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669282678898",
+    "project_id": "tiaa-a8389",
+    "storage_bucket": "tiaa-a8389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669282678898:android:2364ab2448af4efd0caaeb",
+        "android_client_info": {
+          "package_name": "com.example.future_wealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0EudIUXc0ZpHJIdLYNLo2m0sY1NjjxvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
