@@ -29,8 +29,9 @@ Here are the technologies we use:
 
 ## Screenshots
 
-![Budget Management](https://example.com/budget-management.png)
-![Category-wise Visualizations](https://example.com/category-visualizations.png)
-![OpenAI Financial Advice](https://example.com/openai-advice.png)
-![Stock Recommendations](https://example.com/stock-recommendations.png)
-![App in Use](https://example.com/app-in-use.png)
+![Budget Management](images/Screenshot_2023-11-21_at_2.27.16_AM.png)
+![Category-wise Visualizations](images/Screenshot_2023-11-21_at_2.27.29_AM.png)
+![OpenAI Financial Advice](images/Screenshot_2023-11-21_at_2.27.41_AM.png)
+![Stock Recommendations](images/Screenshot_2023-11-21_at_2.27.51_AM.png)
+![App in Use](images/Screenshot_2023-11-21_at_2.28.01_AM.png)
+
