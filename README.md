@@ -28,11 +28,15 @@ Here are the technologies we use:
 
 
 ## Screenshots
+<div>
+<img src="https://raw.githubusercontent.com/Atharv56/TIAA_atharvpersonal/main/images/Screenshot%202023-11-21%20at%202.27.16%E2%80%AFAM.png" alt="Budget Tracker">
+<img src="https://raw.githubusercontent.com/Atharv56/TIAA_atharvpersonal/main/images/Screenshot%202023-11-21%20at%202.27.29%E2%80%AFAM.png" alt="Category-wise Visualisations">
+</div>
+<div>
+<img src="https://raw.githubusercontent.com/Atharv56/TIAA_atharvpersonal/main/images/Screenshot%202023-11-21%20at%202.27.41%E2%80%AFAM.png" alt="OpenAI Financial Advice">
+<img src="https://raw.githubusercontent.com/Atharv56/TIAA_atharvpersonal/main/images/Screenshot%202023-11-21%20at%202.27.51%E2%80%AFAM.png" alt="Stocks">
+</div>
+<img src="https://raw.githubusercontent.com/Atharv56/TIAA_atharvpersonal/main/images/Screenshot%202023-11-21%20at%202.28.01%E2%80%AFAM.png" alt="Stock Recommendation">
 
-![Budget Management]([images/Screenshot_2023-11-21_at_2.27.16_AM.png](https://raw.githubusercontent.com/Atharv56/TIAA_atharvpersonal/main/images/Screenshot%202023-11-21%20at%202.27.16%E2%80%AFAM.png))
-<img src="https://raw.githubusercontent.com/Atharv56/TIAA_atharvpersonal/main/images/Screenshot%202023-11-21%20at%202.27.16%E2%80%AFAM.png" alt="Alt text">
-![Category-wise Visualizations](images/Screenshot_2023-11-21_at_2.27.29_AM.png)
-![OpenAI Financial Advice](images/Screenshot_2023-11-21_at_2.27.41_AM.png)
-![Stock Recommendations](images/Screenshot_2023-11-21_at_2.27.51_AM.png)
-![App in Use](images/Screenshot_2023-11-21_at_2.28.01_AM.png)
+
 
