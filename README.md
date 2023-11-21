@@ -28,15 +28,24 @@ Here are the technologies we use:
 
 
 ## Screenshots
-<div>
-<img src="https://raw.githubusercontent.com/Atharv56/TIAA_atharvpersonal/main/images/Screenshot%202023-11-21%20at%202.27.16%E2%80%AFAM.png" alt="Budget Tracker">
-<img src="https://raw.githubusercontent.com/Atharv56/TIAA_atharvpersonal/main/images/Screenshot%202023-11-21%20at%202.27.29%E2%80%AFAM.png" alt="Category-wise Visualisations">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <div style="flex: 0 1 48%; margin-bottom: 10px;">
+    <img src="https://raw.githubusercontent.com/Atharv56/TIAA_atharvpersonal/main/images/Screenshot%202023-11-21%20at%202.27.16%E2%80%AFAM.png" alt="Budget Tracker">
+  </div>
+  <div style="flex: 0 1 48%; margin-bottom: 10px;">
+    <img src="https://raw.githubusercontent.com/Atharv56/TIAA_atharvpersonal/main/images/Screenshot%202023-11-21%20at%202.27.29%E2%80%AFAM.png" alt="Category-wise Visualisations">
+  </div>
+  <div style="flex: 0 1 48%; margin-bottom: 10px;">
+    <img src="https://raw.githubusercontent.com/Atharv56/TIAA_atharvpersonal/main/images/Screenshot%202023-11-21%20at%202.27.41%E2%80%AFAM.png" alt="OpenAI Financial Advice">
+  </div>
+  <div style="flex: 0 1 48%; margin-bottom: 10px;">
+    <img src="https://raw.githubusercontent.com/Atharv56/TIAA_atharvpersonal/main/images/Screenshot%202023-11-21%20at%202.27.51%E2%80%AFAM.png" alt="Stocks">
+  </div>
 </div>
-<div>
-<img src="https://raw.githubusercontent.com/Atharv56/TIAA_atharvpersonal/main/images/Screenshot%202023-11-21%20at%202.27.41%E2%80%AFAM.png" alt="OpenAI Financial Advice">
-<img src="https://raw.githubusercontent.com/Atharv56/TIAA_atharvpersonal/main/images/Screenshot%202023-11-21%20at%202.27.51%E2%80%AFAM.png" alt="Stocks">
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 0 1 48%;">
+    <img src="https://raw.githubusercontent.com/Atharv56/TIAA_atharvpersonal/main/images/Screenshot%202023-11-21%20at%202.28.01%E2%80%AFAM.png" alt="Stock Recommendation">
+  </div>
 </div>
-<img src="https://raw.githubusercontent.com/Atharv56/TIAA_atharvpersonal/main/images/Screenshot%202023-11-21%20at%202.28.01%E2%80%AFAM.png" alt="Stock Recommendation">
-
 
 
